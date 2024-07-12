@@ -46,11 +46,6 @@ nav ul li a:active {
     text-align: center;
 }
 
-.image-cover img {
-    width: 100%;
-    display: block;
-}
-
 .container {
     width: 80%;
     margin: auto;
