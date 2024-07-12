@@ -81,13 +81,13 @@ nav ul li a:active {
     height: auto;
     display: block;
 }
-
+*/
 .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
-*/
+
 .services, .contact {
     padding: 50px 0;
     text-align: center;
